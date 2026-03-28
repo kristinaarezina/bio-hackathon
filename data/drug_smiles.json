@@ -1,0 +1,17 @@
+{
+  "lamotrigine": {
+    "smiles": "C1=CC(=C(C(=C1)Cl)Cl)C2=C(N=C(N=N2)N)N",
+    "mol_weight": "256.09",
+    "cid": 3878
+  },
+  "simvastatin": {
+    "smiles": "CCC(C)(C)C(=O)OC1CC(C=C2C1C(C(C=C2)C)CCC3CC(CC(=O)O3)O)C",
+    "mol_weight": "418.6",
+    "cid": 54454
+  },
+  "midazolam": {
+    "smiles": "CC1=NC=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4F",
+    "mol_weight": "325.8",
+    "cid": 4192
+  }
+}
