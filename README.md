@@ -20,10 +20,10 @@ The result is a time-series of plasma concentration (mg/L) plus derived metrics 
 
 | Person | Role | Deliverable |
 |--------|------|-------------|
-| **Kristina (you)** | Data eng | Data pipeline + PK engine (this repo) |
-| Person 2 | ML | BBB classifier → `person2_functions.py` |
-| Person 3 | Bio/math | Circadian + sleep modifiers → `person3_functions.py` |
-| Person 4 | Frontend/viz | Calls `pipeline.py`, renders concentration curves |
+| Kristina| Data eng | Data pipeline + PK engine (this repo) |
+| Karthik MK | ML | BBB classifier → `person2_functions.py` |
+| Alejandro| Bio/math | Circadian + sleep modifiers → `person3_functions.py` |
+|ah-gilani | Frontend/viz | Calls `pipeline.py`, renders concentration curves |
 
 ---
 
